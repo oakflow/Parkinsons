@@ -16,7 +16,7 @@ The goal of this app was to explore how **interactive drawing tasks** could pote
 
 ## Live Demo
 
-You can try the prototype **[here](<https://stabl.rocks/ShowModulePublish?modulePublishId=f47db51e-f233-41a4-a6e5-613d5199245c&fullscreen=true>)**.
+You can try the prototype **[here](<https://stabl.rocks/ShowModulePublish?modulePublishId=55400a7e-f196-4be8-b2dd-07979253c8e9&fullscreen=true>)**.
 
 ---
 
